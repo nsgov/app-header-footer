@@ -1,0 +1,52 @@
+header {
+  background-image: url(http://novascotia.ca/clf/saltire/img/bg-header.png);
+  background-position: -200% 55%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+
+  nav {
+
+    h1 {
+      color: #fff;
+      font-size: 1.25em;
+      font-weight: bold;
+      margin: .25em; padding: 0
+    }
+  }
+
+  #toolbar {
+    clear: both;
+    background: #efefef;
+
+    ul {
+      float: right;
+      margin: 0; padding: 0;
+      list-style: none;
+
+      li {display: inline-block; margin: .25em;}
+    }
+
+  }
+
+}
+
+main, .main, #main {background: #fff;}
+
+footer, .footer {
+  background-image: none;
+  margin-top: 0px;
+  padding: .25em;
+
+  .footer-left {
+    ul {
+      list-style: none;
+
+      li {display: inline-block; margin: .25em;}
+    }
+  }
+
+  .footer-right {
+    text-align: right;
+  }
+}

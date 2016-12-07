@@ -1,0 +1,48 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\000031}}
+header {
+  background-image: url(http://novascotia.ca/clf/saltire/img/bg-header.png);
+  background-position: -200% 55%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000310}}
+  header nav h1 {
+    color: #fff;
+    font-size: 1.25em;
+    font-weight: bold;
+    margin: .25em;
+    padding: 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000318}}
+  header #toolbar {
+    clear: both;
+    background: #efefef; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000322}}
+    header #toolbar ul {
+      float: right;
+      margin: 0;
+      padding: 0;
+      list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000327}}
+      header #toolbar ul li {
+        display: inline-block;
+        margin: .25em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000334}}
+main, .main, #main {
+  background: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000336}}
+footer, .footer {
+  background-image: none;
+  margin-top: 0px;
+  padding: .25em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000342}}
+  footer .footer-left ul, .footer .footer-left ul {
+    list-style: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000345}}
+    footer .footer-left ul li, .footer .footer-left ul li {
+      display: inline-block;
+      margin: .25em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/mclaugkl\/github\/local\/app-header-footer\/css\/sass\/saltire-app-container\.scss}line{font-family:\0000349}}
+  footer .footer-right, .footer .footer-right {
+    text-align: right; }
